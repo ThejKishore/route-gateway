@@ -6,3 +6,6 @@ https://github.com/marketplace/actions/secret-search
 
 https://github.com/Yelp/detect-secrets
 
+
+https://github.com/marketplace/actions/azure-keyvault-secrets
+
